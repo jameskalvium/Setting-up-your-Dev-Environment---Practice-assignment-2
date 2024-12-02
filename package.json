@@ -1,0 +1,25 @@
+{
+  "name": "setting-up-your-dev-environment---practice-assignment-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameskalvium/Setting-up-your-Dev-Environment---Practice-assignment-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jameskalvium/Setting-up-your-Dev-Environment---Practice-assignment-2/issues"
+  },
+  "homepage": "https://github.com/jameskalvium/Setting-up-your-Dev-Environment---Practice-assignment-2#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.3",
+    "nodemon": "^3.1.7"
+  }
+}
